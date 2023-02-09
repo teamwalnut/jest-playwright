@@ -77,6 +77,7 @@
     "jest-circus": "^28.1.0",
     "jest-environment-node": "^28.1.0",
     "jest-runner": "^28.1.0",
+    "jest-resolve": "^28.1.0",
     "lint-staged": "11.1.2",
     "playwright": ">=1.12.3",
     "playwright-chromium": ">=1.12.3",
